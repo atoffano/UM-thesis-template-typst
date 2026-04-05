@@ -8,8 +8,8 @@ This project aims to reproduce the university's thesis layout and visual identit
 
 <table>
   <tr>
-    <td><img src="assets/global/preview-frontpage.png" alt="Front page preview" width="360"></td>
-    <td><img src="assets/global/preview-lastpage.png" alt="Last page preview" width="360"></td>
+    <td><img src="assets/global/preview-frontpage.jpg" alt="Front page preview" width="360"></td>
+    <td><img src="assets/global/preview-lastpage.jpg" alt="Last page preview" width="360"></td>
   </tr>
 </table>
 
