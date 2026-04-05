@@ -1,8 +1,8 @@
 # University of Montpellier Thesis Template (Typst)
 
-A Typst thesis template designed for the University of Montpellier.
+A Typst thesis template for the University of Montpellier.
 
-This project aims to reproduce the university thesis layout and visual identity in Typst. All official guidelines have been followed as much as possible.
+This project aims to reproduce the university's thesis layout and visual identity in Typst. All official guidelines have been followed as much as possible.
 
 ## Preview
 
