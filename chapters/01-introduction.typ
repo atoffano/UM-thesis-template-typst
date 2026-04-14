@@ -1,4 +1,4 @@
-// chapters/00-introduction.typ
+// chapters/01-introduction.typ
 
 = Introduction
 #lorem(101)

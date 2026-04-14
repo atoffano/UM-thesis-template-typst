@@ -8,7 +8,7 @@
 #counter(heading).update(0)
 #set heading(numbering: "A.1.") // Format de numérotation, changer si besoin
 
-= Chapitre 1
+= Introduction
 
 == Une figure annexe
 #figure(
